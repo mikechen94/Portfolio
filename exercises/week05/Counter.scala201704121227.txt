@@ -1,0 +1,24 @@
+/**
+  * Created by Eric's laptop on 11/04/2017.
+  */
+class Counter (int: Int) {
+  //def apply(i: Int): Int = ???
+
+
+  //var counter: Counter = null
+
+  def inc : Counter = {
+    var counter = new Counter (int + 1)
+    counter
+  }
+  def dec : Counter = {
+    var counter = new Counter (int - 1)
+    counter
+  }
+  def count : Unit = {
+    println (int)
+  }
+}
+
+// scala> println(new Adder(10).add(5))
+// 15

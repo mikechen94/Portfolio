@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/src/main/ByteCodeImpl_iadd.scala" />
+    <file url="file://$PROJECT_DIR$/src/main/ByteCodeImpl_iconst.scala" />
+    <file url="file://$PROJECT_DIR$/src/main/ByteCodeImpl_idec.scala" />
+    <file url="file://$PROJECT_DIR$/src/main/ByteCodeImpl_idiv.scala" />
+    <file url="file://$PROJECT_DIR$/src/main/ByteCodeImpl_idup.scala" />
+    <file url="file://$PROJECT_DIR$/src/main/ByteCodeImpl_iinc.scala" />
+    <file url="file://$PROJECT_DIR$/src/main/ByteCodeImpl_imul.scala" />
+    <file url="file://$PROJECT_DIR$/src/main/ByteCodeImpl_ineg.scala" />
+    <file url="file://$PROJECT_DIR$/src/main/ByteCodeImpl_irem.scala" />
+    <file url="file://$PROJECT_DIR$/src/main/ByteCodeImpl_isub.scala" />
+    <file url="file://$PROJECT_DIR$/src/main/ByteCodeImpl_iswap.scala" />
+    <file url="file://$PROJECT_DIR$/src/main/ByteCodeImpl_print.scala" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

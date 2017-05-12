@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/exercises/week02/Explorer/Explorer.iml" filepath="$PROJECT_DIR$/exercises/week02/Explorer/Explorer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercises/week08/NewThinkTank/NewThinkTank.iml" filepath="$PROJECT_DIR$/exercises/week08/NewThinkTank/NewThinkTank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercises/week02/alarmsystem/alarmsystem.iml" filepath="$PROJECT_DIR$/exercises/week02/alarmsystem/alarmsystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercises/week02/alarmsystem-scala/alarmsystem-scala.iml" filepath="$PROJECT_DIR$/exercises/week02/alarmsystem-scala/alarmsystem-scala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercises/week02/di/di.iml" filepath="$PROJECT_DIR$/exercises/week02/di/di.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercises/week07/src/main/main.iml" filepath="$PROJECT_DIR$/exercises/week07/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercises/akka/filesize/src/main/main1.iml" filepath="$PROJECT_DIR$/exercises/akka/filesize/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercises/akka/first/src/main/main2.iml" filepath="$PROJECT_DIR$/exercises/akka/first/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercises/week02/springdi/springdi.iml" filepath="$PROJECT_DIR$/exercises/week02/springdi/springdi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercises/week08/week08.iml" filepath="$PROJECT_DIR$/exercises/week08/week08.iml" />
+    </modules>
+  </component>
+</project>
